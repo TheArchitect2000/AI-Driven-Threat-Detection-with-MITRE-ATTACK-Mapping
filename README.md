@@ -10,7 +10,6 @@ This repository implements a GPU-accelerated machine learning pipeline for multi
 .
 ├── video                       # introduce all the main steps of this project
 ├── SMOTE.ipynb                # Main pipeline script using SMOTE and downsampling
-├── dataset/                       # Preprocessed dataset directory (optional)
 └── README.md                   # Project description and usage instructions
 ```
 
