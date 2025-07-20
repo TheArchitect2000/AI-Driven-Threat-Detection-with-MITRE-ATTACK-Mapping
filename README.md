@@ -54,14 +54,14 @@ NVIDIA-SMI 550.54.15 Driver Version: 550.54.15 CUDA Version: 12.
 
 ## 👤 Author
 
-Graduate Student @ FDU-Vancouver
+Graduate Student
 
-GuanhuaZhao　 g.zhao@student.fdu.edu
+GuanhuaZhao
 
-Honghaoyu 　　h.yu1@student.fdu.edu 
+Honghaoyu
 
-Hongxia Zhou　h.zhou2@student.fdu.edu  
+Hongxia Zhou
 
-Ming Zhao 　　m.zhao2@student.fdu.edu
+Ming Zhao
 
 ---
