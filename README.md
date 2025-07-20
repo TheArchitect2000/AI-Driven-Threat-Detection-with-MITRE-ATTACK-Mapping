@@ -8,8 +8,11 @@ This repository implements a GPU-accelerated machine learning pipeline for multi
 
 ```
 .
-├── video                       # introduce all the main steps of this project
+├── video                      # introduce all the main steps of this project
 ├── SMOTE.ipynb                # Main pipeline script using SMOTE and downsampling
+├──Hierarchical.ipynb          # Hierarchical module
+├──valilla.ipynb               # BaseLine module
+├──stratified sampling.ipynb   # Stratified Sampling module
 ├── Group 1 – AI-Driven MITRE ATT&CK Framework.pptx  #presentation
 └── README.md                   # Project description and usage instructions
 ```
