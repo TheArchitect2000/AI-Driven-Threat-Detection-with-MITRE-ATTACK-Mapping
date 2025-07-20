@@ -60,7 +60,7 @@ NVIDIA-SMI 550.54.15 Driver Version: 550.54.15 CUDA Version: 12.
 
 Graduate Student
 
-GuanhuaZhao
+Guanhua Zhao
 
 Honghao Yu
 
