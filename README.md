@@ -62,7 +62,7 @@ Graduate Student
 
 GuanhuaZhao
 
-Honghaoyu
+Honghao Yu
 
 Hongxia Zhou
 
